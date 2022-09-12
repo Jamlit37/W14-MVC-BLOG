@@ -20,3 +20,4 @@ npm start
 If you want to vist my [GitHub](https://github.com/Jamlit37) or the [GitHub repository](https://github.com/Jamlit37/W13-ORM-ECOM) click the links
 
 ## Live app on Heroku
+https://w14-mvc-blog.herokuapp.com/
