@@ -15,7 +15,12 @@ Then to run the application you can use the following commands in sequence
 npm run seed
 npm start
 ```
-
+## Screenshots of Application
+![Capture1](./media/Capture1.PNG)
+## Screenshots of Application
+![Capture2](./media/Capture1.PNG)
+## Screenshots of Application
+![Capture3](./media/Capture1.PNG)
 ## GitHub
 If you want to vist my [GitHub](https://github.com/Jamlit37) or the [GitHub repository](https://github.com/Jamlit37/W13-ORM-ECOM) click the links
 
